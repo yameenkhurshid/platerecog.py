@@ -1,1 +1,1 @@
-# platerecog.py
+Using AI to detect car plates!
