@@ -1,1 +1,1 @@
-# Using AI to detect car plates!
+# Using AI to detect license plates!
